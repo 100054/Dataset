@@ -1,0 +1,14 @@
+Field,Label,Value
+created,Created,2020-03-09T16:57:36.265781
+description,Description,"Infrastructure: Total density per 100 000 population: Health posts, Total density per 100 000 population: Health centres, Total density per 100 000 population: District/rural hospitals, Total density per 100 000 population: Provincial hospitals, Total density per 100 000 population: Specialized hospitals, Total density per 100 000 population: Hospitals"
+format,File Format,CSV
+download_url,Download URL,https://data.humdata.org/dataset/039ad0f5-7ffa-414a-82cf-0bf3cfd59a6b/resource/a1a25ed1-f66c-4292-a3a2-9e9d92cd3ef8/download/infrastructure_indicators_gha.csv
+id,Resource ID,a1a25ed1-f66c-4292-a3a2-9e9d92cd3ef8
+last_modified,Updated,2023-11-15T17:51:29.052847
+metadata_modified,Metadata Updated,2023-11-15T17:51:37.056092
+microdata,Microdata,False
+dataset_id,Dataset ID,039ad0f5-7ffa-414a-82cf-0bf3cfd59a6b
+resource_type,Resource Type,file.upload
+name,Resource Name,Infrastructure Indicators for Ghana
+mimetype,MIME Type,
+size,Size,3.0K
